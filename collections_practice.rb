@@ -17,6 +17,7 @@ def swap_elements(list)
   # placeholder = list[1]
   # list[1] = list[2]
   # list[2] = placeholder
+  
   list
 end
 
